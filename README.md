@@ -1,2 +1,2 @@
 # Game scripts
-This repository contains some scripts responsible for building system in 2D strategy game.  
+This repository contains scripts responsible for building system in my 2D strategy game.  
