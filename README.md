@@ -1,3 +1,2 @@
 # Game scripts
-### Motivation
-I am interest in programming and games, so I decided to take part in a game development project.
+This repository contains some scripts responsible for building system in 2D strategy game.  
