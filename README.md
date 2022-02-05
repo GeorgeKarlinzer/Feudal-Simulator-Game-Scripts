@@ -10,4 +10,5 @@ This repository contains scripts I used in 2D strategy game.
   * Dealing with third-party projects
      * Humans moving system uses A* Pathfinding project (https://arongranberg.com/astar/)
   * Algorithms and data structures
-     * Array, List, Stack, Queue
+     * E.g. Array, List, Stack, Queue, Dictionaries
+     * E.g. Dijkstra's, A*, Thorup's algorytms
