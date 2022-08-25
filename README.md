@@ -12,4 +12,4 @@ This repository contains scripts I used in 2D strategy game.
   * Algorithms and data structures
      * E.g. Array, List, Stack, Queue, Dictionaries
      * E.g. Dijkstra's, A*, Thorup's algorithms
-  * Extension methods
+  * Extensions methods
